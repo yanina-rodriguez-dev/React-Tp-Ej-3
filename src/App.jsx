@@ -13,7 +13,7 @@ function App() {
     <section  className="container">
       <Titulos mostrarMensaje={mostrarMensaje} />
       <button onClick={handleClickMostrarMensaje} className="btn btn-success mt-5 ms-4">
-        Mostrar Mensaje
+        Mostrar mensaje
       </button>
     </section>
   );
